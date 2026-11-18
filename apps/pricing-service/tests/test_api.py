@@ -20,7 +20,7 @@ def test_creates_a_quote() -> None:
         "category": "economy",
         "days": 4,
         "daily_rate": 40.0,
-        "total": 161.0,
+        "total": 160.0,
         "currency": "EUR",
     }
 
